@@ -1,1 +1,2 @@
 - REST API로 구성하는 법에 대해서 알아보기(go lang의 경우 air라는 라이브러리가 있는 걸로 알고 잇음)
+- anotation을 이용한 DI와 IOC 등의 방법에 대해서 알아보기(그 전에 golang은 class가 없다는 사실을 알아야 한다.)
